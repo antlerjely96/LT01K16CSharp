@@ -1,0 +1,55 @@
+﻿@page "/Products"
+@using BlazorWeb.Models
+@using BlazorWeb.Services.Products
+@using Category = BlazorWeb.Components.Pages.Categories
+@inject IProductService ProductService
+@rendermode InteractiveServer
+<h3>Products</h3>
+
+<a href="/Products/Create" class="btn btn-primary">Add product</a>
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Category</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in products)
+    {
+        <tr>
+            <td>@product.Id</td>
+            <td>@product.Name</td>
+            <td>@product.Quantity</td>
+            <td>@product.Price</td>
+            <td>@product.category?.Name</td>
+            <td>
+                <a href="/Products/@product.Id/Update" class="btn btn-secondary">Edit</a>
+                <button class="btn btn-danger" @onclick="() => DeleteProduct(product.Id)">Delete</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@code {
+    //List luu du lieu lay tu DB
+    List<Product> products = new List<Product>();
+    
+    //function tu dong chay khi load component
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetAllProductsAsync();
+    }
+    
+    //Function xoa
+    private async Task DeleteProduct(int Id)
+    {
+        await ProductService.DeleteProductAsync(Id);
+        products = await ProductService.GetAllProductsAsync();
+    }
+}

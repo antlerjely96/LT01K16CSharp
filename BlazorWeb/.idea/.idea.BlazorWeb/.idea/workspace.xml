@@ -6,7 +6,26 @@
     <projectFile profileName="https">BlazorWeb/BlazorWeb.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d40a4e54-005e-4fba-8750-3b0a8a78091c" name="Changes" comment="" />
+    <list default="true" id="d40a4e54-005e-4fba-8750-3b0a8a78091c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Components/Layout/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Components/Layout/NavMenu.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Data/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Models/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Models/Category.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/ref/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/ref/BlazorWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/refint/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/refint/BlazorWeb.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773817399918</updated>
-      <workItem from="1773817405713" duration="6354000" />
+      <workItem from="1773817405713" duration="14492000" />
     </task>
     <servers />
   </component>

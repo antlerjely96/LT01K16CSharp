@@ -10,4 +10,6 @@ public class Category
     public String Name { get; set; }
     [Required (ErrorMessage = "Không được để trống")]
     public String Description { get; set; }
+
+    public ICollection<Product> Products { get; set; } = new List<Product>();
 }
