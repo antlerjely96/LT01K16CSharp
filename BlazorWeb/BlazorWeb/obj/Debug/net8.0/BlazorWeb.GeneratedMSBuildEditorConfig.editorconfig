@@ -22,6 +22,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DELL/RiderProjects/LT01K16CSharp/BlazorWeb/BlazorWeb/Components/Layout/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9naW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/RiderProjects/LT01K16CSharp/BlazorWeb/BlazorWeb/Components/Pages/Admins/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pbnNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DELL/RiderProjects/LT01K16CSharp/BlazorWeb/BlazorWeb/Components/Pages/Categories/Categories.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXRlZ29yaWVzXENhdGVnb3JpZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -7,24 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d40a4e54-005e-4fba-8750-3b0a8a78091c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorWeb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorWeb/Components/Layout/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Components/Layout/NavMenu.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/BlazorWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/BlazorWeb.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Components/App.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Components/App.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Components/Layout/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Components/Layout/MainLayout.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/Components/Routes.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Components/Routes.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/Data/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Data/AppDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorWeb/Models/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Models/Category.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/bin/Debug/net8.0/BlazorWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/BlazorWeb.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/BlazorWeb.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/BlazorWeb.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/ref/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/ref/BlazorWeb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/refint/BlazorWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/Debug/net8.0/refint/BlazorWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWeb/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWeb/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +49,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BlazorWeb: IIS Express">
     <configuration name="BlazorWeb: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BlazorWeb/BlazorWeb.csproj" />
@@ -104,7 +113,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773817399918</updated>
-      <workItem from="1773817405713" duration="14492000" />
+      <workItem from="1773817405713" duration="15081000" />
+      <workItem from="1775531735494" duration="3664000" />
     </task>
     <servers />
   </component>

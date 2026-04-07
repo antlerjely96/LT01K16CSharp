@@ -57,3 +57,4 @@ C:\Users\DELL\RiderProjects\LT01K16CSharp\BlazorWeb\BlazorWeb\bin\Debug\net8.0\r
 C:\Users\DELL\RiderProjects\LT01K16CSharp\BlazorWeb\BlazorWeb\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\DELL\RiderProjects\LT01K16CSharp\BlazorWeb\BlazorWeb\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\DELL\RiderProjects\LT01K16CSharp\BlazorWeb\BlazorWeb\obj\Debug\net8.0\BlazorWeb.csproj.Up2Date
+C:\Users\DELL\RiderProjects\LT01K16CSharp\BlazorWeb\BlazorWeb\bin\Debug\net8.0\BCrypt.Net-Next.dll
